@@ -26,4 +26,4 @@ This project uses Unity version 2021.2.3f, earlier versions of Unity might not w
 # Tutorial Video
 If you want to follow along with this tutorial, here is my tutorial video! I make this kind of tutorial every month, so if you like it, be sure to subscribe!
 
-[![How to Blend Two Expressions Together (Unity VRoid Studio)!](https://github.com/FFaUniHan/Unity_VRoid_Blend_Trees/blob/main/Video.jpg)](https://youtu.be/oqnh1CuKEx0 "How to Blend Two Expressions Together (Unity VRoid Studio)")
+[![The Complete Damage Pop-Up Text Tutorial for Beginners!](https://github.com/FFaUniHan/Unity_VRoid_Damage_Pop_Up/blob/main/Video.jpg)](https://www.youtube.com/watch?v=KOt85IoD__4 "The Complete Damage Pop-Up Text Tutorial for Beginners")
