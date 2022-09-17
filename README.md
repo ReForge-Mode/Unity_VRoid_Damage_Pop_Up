@@ -2,7 +2,7 @@
 In this video, you'll learn everything you need to know about making damage pop-ups in Unity. This tutorial is for absolute beginners and advanced users alike!
 
 <img src="https://github.com/FFaUniHan/Unity_VRoid_Damage_Pop_Up/blob/main/Demo%202.gif" width=100% height=100%>
-<p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_Damage_Pop_Up/blob/main/Demo%201.gif" width=50% height=50%></p>
+<p align="center"><img src="https://github.com/FFaUniHan/Unity_VRoid_Damage_Pop_Up/blob/main/Demo%203.gif" width=100% height=100%></p>
 
 Topics discussed in this video:
 - Setting Up Text Mesh Pro Canvas
